@@ -15,6 +15,7 @@ public class PasswordGenerator {
     static HashSet<String> negativeSet;
 
     public static String generatePassword() {
+
         intializeMemebers();
         length = getLength();
         upperCase=getContainUppercase();
