@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 import java.util.HashSet;
+
 public class PasswordGenerator {
 
     static int length;
