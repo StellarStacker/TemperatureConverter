@@ -1,4 +1,4 @@
-It seems I couldn't retrieve the file directly. Let's proceed with the information you provided to create a basic README.
+
 
 # StudentGradeCalculator
 
