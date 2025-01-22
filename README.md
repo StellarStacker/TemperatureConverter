@@ -1,4 +1,4 @@
-It seems I couldn't retrieve the file directly. Let's proceed with the information you provided to create a basic README.
+
 
 # StudentGradeCalculator
 
@@ -97,4 +97,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-Feel free to edit and expand upon this README as needed. You can now add it to your repository.
